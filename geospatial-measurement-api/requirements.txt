@@ -1,0 +1,13 @@
+# Pinned for Python 3.11 (Docker). On 3.12+ pip resolves newer wheels automatically.
+fastapi>=0.115.0,<0.116.0
+uvicorn[standard]>=0.32.0,<0.33.0
+geopandas>=1.0.1,<2.0.0
+shapely>=2.0.6,<3.0.0
+pyproj>=3.6.1,<4.0.0
+pyogrio>=0.10.0,<1.0.0
+pydantic>=2.10.0,<3.0.0
+pydantic-settings>=2.6.0,<3.0.0
+python-multipart>=0.0.17,<0.1.0
+pytest>=8.3.0,<9.0.0
+pytest-asyncio>=0.24.0,<0.25.0
+httpx>=0.28.0,<0.29.0
